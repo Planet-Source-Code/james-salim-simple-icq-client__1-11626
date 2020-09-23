@@ -1,0 +1,17 @@
+modDeclaration = 88, 88, 773, 626, C
+miscFunction = 0, 0, 0, 0, C
+UDPPacket = 110, 110, 795, 648, C
+UDPSend = 134, 157, 928, 695, C
+UDPReceive = 110, 109, 795, 648, C
+modDebug = 66, 66, 750, 604, C
+modMain = 0, 0, 685, 538, C
+ICQControl = 110, 110, 795, 648, C, 22, 22, 707, 560, C
+frmICQMain = 223, 104, 908, 642, C, 62, 81, 400, 515, C
+UDPQueue = 0, 0, 0, 0, C
+UI_Client = 88, 90, 773, 626, 
+modNotify = 270, 299, 819, 757, C
+miscFunctionData = 44, 44, 729, 582, C
+frmAddContact = 44, 44, 729, 582, C, 22, 22, 413, 323, C
+frmUserPass = 44, 44, 729, 582, C, 22, 22, 707, 560, C
+frmMessageRecv = 115, 232, 800, 770, C, 110, 110, 787, 648, C
+frmMessageSend = 44, 44, 729, 582, C, 0, 0, 685, 538, C
